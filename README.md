@@ -17,5 +17,10 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/StephenAraka/code/tree/master/0283-move-zeroes) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/StephenAraka/code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/StephenAraka/code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+## Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/StephenAraka/code/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
