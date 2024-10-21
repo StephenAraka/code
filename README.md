@@ -18,11 +18,13 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/StephenAraka/code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/StephenAraka/code/tree/master/0283-move-zeroes) |
+| [1319-unique-number-of-occurrences](https://github.com/StephenAraka/code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/StephenAraka/code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/StephenAraka/code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/StephenAraka/code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/StephenAraka/code/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
