@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/StephenAraka/code/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/StephenAraka/code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/StephenAraka/code/tree/master/0283-move-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/StephenAraka/code/tree/master/1319-unique-number-of-occurrences) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/StephenAraka/code/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/StephenAraka/code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/StephenAraka/code/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Prefix Sum
