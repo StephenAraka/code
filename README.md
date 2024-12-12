@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/StephenAraka/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/StephenAraka/code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/StephenAraka/code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/StephenAraka/code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/StephenAraka/code/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/StephenAraka/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/StephenAraka/code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/StephenAraka/code/tree/master/0283-move-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/StephenAraka/code/tree/master/1319-unique-number-of-occurrences) |
